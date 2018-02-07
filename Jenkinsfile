@@ -29,7 +29,7 @@ node {
       sh 'bash run.sh sed -i "s|SF:${PWD}/|SF:|g" coverage/lcov.info'
 
       // Report coverage to Sonar
-      sonarScan{ }
+      // sonarScan{ }
     }
 
     stage('Build artifact') {
