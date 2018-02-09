@@ -4,7 +4,7 @@
     "name": "react-app-andy-zy",
     "type": "app"
   },
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "main": "src/index.js",
   "license": "SEE LICENSE IN LICENSE.md",
